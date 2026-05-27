@@ -1,0 +1,6 @@
+{
+  "name": "Brand Identity Generator",
+  "description": "Generate comprehensive brand bibles including logos, palettes, and typography from a company mission.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
